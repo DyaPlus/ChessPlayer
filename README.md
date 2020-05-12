@@ -8,6 +8,8 @@
 The executable isn't found in the github as it is roughly 200mb 
 Google Drive Link For The Executable : https://drive.google.com/open?id=1rwaQBht6M4qk2oG3DM2lDRG0U20qTQAO
 
+## Project Demo
+Youtube link : https://youtu.be/krWVJiINemk
 ## Notes on the versions:
 
 RECOMMENDED VERSION : ChessPlayer-slower-more_reliable-with_layout_config
