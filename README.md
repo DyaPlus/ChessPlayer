@@ -1,4 +1,5 @@
 # ChessPlayer
+![](images/logo.png)
 ## Team Members :
 ### ضياء عادل سعد 1500731
 ### عبدلله عمادالدين محمد حجاج 1500808
