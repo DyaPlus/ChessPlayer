@@ -17,20 +17,20 @@ Youtube link : https://youtu.be/krWVJiINemk
 RECOMMENDED VERSION : ChessPlayer-slower-more_reliable-with_layout_config
 
 There are total of 4 version found in the drive link , 2 main versions and 2 flavors each :
-1.Version ChessPlayer-x-x_x-with_layout_config:
+
+1. Version ChessPlayer-x-x_x-with_layout_config:
  This is the latest updated version as it solved an issue where white units might start from the top of the board 
-2.Version ChessPlayer-x-x_x:
+2. Version ChessPlayer-x-x_x:
  Older version where the mentioned issue is there 
 
-1.Flavor 1 slower-more_reliable :
+1. Flavor 1 slower-more_reliable :
  The application is slightly slower but higher in accuracy 
-2.Flavor 2 faster-less_accurate :
+2. Flavor 2 faster-less_accurate :
  The application is slightly faster but can fail to find the board in some cases
 
 ## Notes on the chess engines to use 
 
-You can download any chess engine you like , but we included stockfish engine mentioned in the Demo in the google drive folder 
-You may use it to test the application 
-The Engine Path in the settings should point to : stockfish-11-win/Windows/stockfish_20011801_x64.exe (for 64-bit)
-stockfish-11-win/Windows/stockfish_20011801_x32.exe (for 32-bit)
-(This is the binary file)
+* You can download any chess engine you like , but we included stockfish engine mentioned in the Demo in the google drive folder 
+* You may use it to test the application 
+* The Engine Path in the settings should point to : stockfish-11-win/Windows/stockfish_20011801_x64.exe (for 64-bit) (This is the binary file)
+* or : stockfish-11-win/Windows/stockfish_20011801_x32.exe (for 32-bit) (This is the binary file)
