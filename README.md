@@ -5,6 +5,20 @@
 ### عبدلله عمادالدين محمد حجاج 1500808
 ### عبدالرحمن ممدوح خليل الولي 1500793
 
+## Key Shortcuts For Configure Board Window 
+* Add Pieces
+
+| Piece         | White         | Black        | 
+| ------------- | ------------- |------------- |
+| Rock          | key"r"        | Shift+key"r" |
+| Knight        | key"n"        | Shift+key"n" |
+| Bishop        | key"b"        | Shift+key"b" |
+| Queen         | key"q"        | Shift+key"q" |
+| King          | key"k"        | Shift+key"k" |
+| Pawn          | key"p"        | Shift+key"p" |
+
+* Remove A Piece : **Backspace Key** 
+
 ## Project Notes 
 The executable isn't found in the github as it is roughly 200mb 
 Google Drive Link For The Executable : https://drive.google.com/open?id=1rwaQBht6M4qk2oG3DM2lDRG0U20qTQAO
