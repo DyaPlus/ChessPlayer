@@ -49,3 +49,6 @@ There are total of 4 version found in the drive link , 2 main versions and 2 fla
 * You may use it to test the application 
 * The Engine Path in the settings should point to : stockfish-11-win/Windows/stockfish_20011801_x64.exe (for 64-bit) (This is the binary file)
 * or : stockfish-11-win/Windows/stockfish_20011801_x32.exe (for 32-bit) (This is the binary file)
+
+## Licenses 
+"icon made by ultimatearm from www.flaticons.com"
